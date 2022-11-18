@@ -1,0 +1,18 @@
+
+.FormValid {
+    
+    display: inline-block;
+height: 250px;
+    width: 400px;
+    background-color:aquamarine;
+    border: 2px double red;
+}
+.inputs{
+    margin-top: 20px;
+}
+.title {
+    margin-top: 10px;
+    text-transform: bold capitalize;
+    text-decoration: solid;
+    
+}
